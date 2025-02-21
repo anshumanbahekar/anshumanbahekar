@@ -43,7 +43,7 @@
 #
 
 ### 🎯 Github Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanthegoat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanthegoat&theme=dark)](https://git.io/streak-stats)
 
 #
 
