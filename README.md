@@ -1,4 +1,4 @@
-<img style="margin: 10px" src="/1.1.png" alt=".Net Core" height="150" />
+<img style="margin: 10px" src="/1.2.png" alt=".Net Core" height="250" width="4000"/>
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⠖⠉⠉⠉⣉⣙⣛⣲⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
