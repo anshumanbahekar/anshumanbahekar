@@ -1,4 +1,4 @@
-<img style="margin: 10px" src="/upper_banner.png" alt=".Net Core" height="250" width="4000"/>
+<img style="margin: 10px" src="/upper_banner.png" alt=".Net Core" height="225" width="4000"/>
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⠖⠉⠉⠉⣉⣙⣛⣲⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -78,4 +78,4 @@
 #### Made with ❤️
 
 
-<img style="margin: 10px" src="/footer_banner.webp" alt=".Net Core" height="200" width="4000"/>
+<img style="margin: 10px" src="/footer_banner.webp" alt=".Net Core" height="175" width="4000"/>
