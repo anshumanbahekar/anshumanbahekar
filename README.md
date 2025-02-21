@@ -69,12 +69,12 @@
 #
 
 ### ❤️ Support:
-<p><a href="https://www.buymeacoffee.com/anshumanbahekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshumanbahekar" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/anshumanthegoat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshumanthegoat" /></a></p><br><br>
 
 #
 
 
 
-Build with 💫 by Iron Man
-### Love you 3000 ❤️
+#### Made with ❤️
+
 
