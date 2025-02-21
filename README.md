@@ -1,4 +1,4 @@
-<img style="margin: 10px" src="https://media.discordapp.net/attachments/1055207557729370113/1276508623346073650/I-am-Iron-Man-8-23-2024.png?ex=66c9c8cc&is=66c8774c&hm=129283f9b166dcab3edd78faca9225c4f5bc1a220f8cb27b1f6acdf3fb3826d3&=&format=webp&quality=lossless&width=1280&height=257" alt=".Net Core" height="150" />
+<img style="margin: 10px" src="/1.1.png" alt=".Net Core" height="150" />
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣤⠖⠉⠉⠉⣉⣙⣛⣲⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
