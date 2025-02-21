@@ -43,19 +43,19 @@
 #
 
 ### 🎯 Github Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reallifeironman)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anshumanthegoat)](https://git.io/streak-stats)
 
 #
 
 ### 📊 Github Stats:
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=reallifeironman)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=anshumanthegoat)](https://github.com/ryo-ma/github-profile-trophy)
 #
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reallifeironman)](https://github.com/anshumanbahekar/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanthegoat)](https://github.com/anshumanthegoat/github-readme-activity-graph)
 #
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reallifeironman)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumanthegoat)](https://github.com/anuraghazra/github-readme-stats)
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reallifeironman&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumanthegoat&layout=compact)
 
 
 
