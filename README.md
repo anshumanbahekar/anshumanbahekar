@@ -50,7 +50,7 @@
 
 ### 📊 Github Stats:
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=anshumanbahekar)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=anshumanbahekar)](https://github.com/anshumanbahekar/github-profile-trophy)
 #
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshumanbahekar)](https://github.com/anshumanthegoat/github-readme-activity-graph)
 #
