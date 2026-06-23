@@ -9,8 +9,60 @@
 
 
 
-## 🪴 Stack:
-![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,apple,arduino,au,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,css,dart,discord,bots,discordjs,django,docker,dotnet,eclipse,electron,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubaction,gitlab,gmail,go,gradle,graphsql,gtk,haskell,heroku,html,htmx,idea,ai,ipfs,java,js,jquery,kali,kotlin,latex,linkedin,linux,lit,md,mint,mongodb,mysql,nestjs,netlify,nextjs,nim,nodejsnotion,npm,nuxtjs,obsidian,octave,opencv,ps,phpstorm,postgres,powershell,pr,prisma,pycharm,py,pytorch,r,rasberrypi,react,reactivex,redhat,redux,regex,replit,rider,roboloxstudio,rocket,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,sequelize,solidjs,svelte,svg,swift,tailwind,tensorflow,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,vite,vitest,vscode,vscodium,vue,vuetify,webflow,webstorm,windcss,windows,wordpress,xd,yarn,yew,zig&perline=20)
+## 🪴 Stack
+
+#### Languages
+
+![Languages](https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,dart,go,r,ruby,rust,swift,kotlin,scala,haskell,nim,zig,vala\&perline=10)
+
+#### Frontend Development
+
+![Frontend](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vue,nuxtjs,angular,svelte,solidjs,jquery,redux,styledcomponents,htmx,threejs,vite,vitest,vuetify\&perline=10)
+
+#### Backend Development
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,spring,graphql,prisma,sequelize,electron\&perline=10)
+
+#### Databases
+
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase\&perline=10)
+
+#### Cloud & DevOps
+
+![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,heroku,netlify,vercel,githubactions,gitlab\&perline=10)
+
+#### AI & Machine Learning
+
+![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv\&perline=10)
+
+#### Mobile Development
+
+![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,dart\&perline=10)
+
+#### Design & Creative
+
+![Design](https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,xd,svg\&perline=10)
+
+#### Development Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,vscodium,webstorm,phpstorm,pycharm,idea,eclipse,rider,replit,npm,yarn,bash,powershell,vim,sublime,gradle\&perline=10)
+
+#### Operating Systems
+
+![OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,redhat,apple,mint\&perline=10)
+
+#### Game Development
+
+![GameDev](https://skillicons.dev/icons?i=unity,unreal,robloxstudio\&perline=10)
+
+#### Hardware & IoT
+
+![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi\&perline=10)
+
+#### Productivity & Collaboration
+
+![Productivity](https://skillicons.dev/icons?i=discord,discordjs,gmail,linkedin,obsidian,notion,stackoverflow,webflow,wordpress,ipfs,latex,twitter\&perline=10)
+
 
 
 
