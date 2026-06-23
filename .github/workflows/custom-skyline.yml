@@ -1,0 +1,36 @@
+name: Custom-Contribution-Skyline
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 18:00 UTC daily — change to taste
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-custom-skyline
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate skyline SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUT_PATH: "skyline/skyline.svg"
+        run: node skyline/generate.js "$USERNAME" "$OUT_PATH"
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A skyline/skyline.svg
+          if git commit -m "update skyline"; then
+            git push
+          fi
