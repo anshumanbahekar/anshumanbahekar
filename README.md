@@ -103,10 +103,11 @@
   </a>
 </p>
 
-<img align="left" src="./assets/githubcat2.png" width="250">
-<img align="right" src="./assets/rocket.png" width="500">
+
 
 
 
 <br clear="both"/>
+
+<img width="1199" height="268" alt="image" src="https://github.com/user-attachments/assets/5ff15030-3643-4219-8ab8-3d43db256ab6" />
 
