@@ -69,8 +69,20 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=anshumanbahekar&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshumanbahekar&label=PROFILE+VIEWS&color=f97316&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/anshumanbahekar?label=Followers&style=for-the-badge&color=f97316" />
+  <img src="https://img.shields.io/github/stars/anshumanbahekar?affiliations=OWNER&style=for-the-badge&color=f97316" />
+</p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anshumanbahekar) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anshumanbahekar) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/anshumanbahekar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/anshumanbahekar) 
+## ☕ Support My Work
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/anshumanbahekar">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" alt="Buy Me A Coffee">
+  </a>
+
+  <a href="https://ko-fi.com/anshumanbahekar">
+    <img height="55" src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Ko-fi">
+  </a>
+</p>
