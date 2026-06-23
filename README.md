@@ -91,7 +91,7 @@
 </p>
 
 
-<img align="left" src="./assets/githubcat1.png" width="300">
+<img align="left" src="./assets/rocket.png" width="300">
 
 
 
