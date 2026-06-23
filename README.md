@@ -3,7 +3,7 @@
 
 
 ## 📊 GitHub Stats:
-<img align="right" src="./assets/githubcat1.png" width="300">
+<img align="right" src="./assets/pokemon_anshuman.gif" width="300">
 
 ![](https://github-readme-stats.shion.dev/api?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anshumanbahekar&theme=dark&hide_border=false)<br/>
@@ -80,9 +80,22 @@
 ![Productivity](https://skillicons.dev/icons?i=discord,discordjs,gmail,linkedin,obsidian,notion,stackoverflow,webflow,wordpress,ipfs,latex,twitter\&perline=10)
 
 
+## Top Repositories
+
+<img align="left" width="400" src="./assets/programmer_anshuman.gif">
+
+<p align="right">
+  <a href="https://github.com/anshumanbahekar/guardian-ops">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=guardian-ops&theme=dark" /></a>
+ <a href="https://github.com/anshumanbahekar/signal-repair">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=signal-repair&theme=dark" /></a>
+ <a href="https://github.com/anshumanbahekar/studymind-agent">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=studymind-agent&theme=dark" /></a>
+</p>
 
 
-
+<br>
+<br>
 
 ---
 <p align="center">
@@ -100,10 +113,7 @@
 </p>
 
 
-
-
-
 <br clear="both"/>
 
-<img alt="image" src="https://i.pinimg.com/1200x/93/44/fc/9344fcf0497001252954d3a1f5b1a81c.jpg" />
+<img alt="image" width="5000" src="./assets/pixel_anshuman.gif" />
 
