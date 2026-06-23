@@ -1,7 +1,10 @@
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif">
  
 
+
 ## 📊 GitHub Stats:
+<img align="right" src="./assets/githubcat1.png" width="300">
+
 ![](https://github-readme-stats.shion.dev/api?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anshumanbahekar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -86,3 +89,11 @@
     <img height="55" src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Ko-fi">
   </a>
 </p>
+
+
+<img align="left" src="./assets/githubcat1.png" width="300">
+
+
+
+<br clear="both"/>
+
