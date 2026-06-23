@@ -115,5 +115,5 @@
 
 <br clear="both"/>
 
-<img alt="image" width="5000" src="./assets/banner_anshuman.jpg" />
+<img alt="image" width="5000" src="./assets/banner1_anshuman.jpg" />
 
