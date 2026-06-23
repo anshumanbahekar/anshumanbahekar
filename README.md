@@ -97,11 +97,32 @@
 <br>
 <br>
 
+## Analytics
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanbahekar&theme=github_dark)
+
+
+
+
+## Intresting Repositories
+
+<div align="center">
+  <p align="center">
+<a href="https://github.com/anshumanbahekar/">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=splunk-ops-brain&theme=dark"/></a>
+<a href="https://github.com/anshumanbahekar/audi-a7">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=audi-a7&theme=dark"/></a>
+  </p>
+</div>
+
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshumanbahekar&label=PROFILE+VIEWS&color=f97316&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/anshumanbahekar?label=Followers&style=for-the-badge&color=f97316" />
   <img src="https://img.shields.io/github/stars/anshumanbahekar?affiliations=OWNER&style=for-the-badge&color=f97316" />
+ <a style="display:block;" href="https://github.com/anshumanbahekar?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/anshumanbahekar" /></a>
 </p>
 
 #### Support My Work
