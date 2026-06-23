@@ -11,7 +11,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumanbahekar&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FFFFFF&bg_color=0D0D0D&radius=16&area_color=F97316&area=true&point=FFFFFF&line=F97316&days=10&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true" />
 
 
-<img align="right" src="./assets/walking.gif" width="300">
+<img align="right" src="./assets/walking_anshuman.gif" width="300">
 
 #### 📘 About Me
 
@@ -115,5 +115,5 @@
 
 <br clear="both"/>
 
-<img alt="image" width="5000" src="./assets/pixel_anshuman.gif" />
+<img alt="image" width="5000" src="./assets/banner_anshuman.jpg" />
 
