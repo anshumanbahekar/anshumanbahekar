@@ -9,7 +9,7 @@
 
 
 
-## Stack:
+## 🪴 Stack:
 ![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,angular,apple,arduino,au,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,css,dart,discord,bots,discordjs,django,docker,dotnet,eclipse,electron,express,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubaction,gitlab,gmail,go,gradle,graphsql,gtk,haskell,heroku,html,htmx,idea,ai,ipfs,java,js,jquery,kali,kotlin,latex,linkedin,linux,lit,md,mint,mongodb,mysql,nestjs,netlify,nextjs,nim,nodejsnotion,npm,nuxtjs,obsidian,octave,opencv,ps,phpstorm,postgres,powershell,pr,prisma,pycharm,py,pytorch,r,rasberrypi,react,reactivex,redhat,redux,regex,replit,rider,roboloxstudio,rocket,ruby,rust,sass,spring,sqlite,stackoverflow,styledcomponents,sublime,supabase,scala,sklearn,sequelize,solidjs,svelte,svg,swift,tailwind,tensorflow,threejs,twitter,ts,ubuntu,unity,unreal,v,vala,vercel,vim,vite,vitest,vscode,vscodium,vue,vuetify,webflow,webstorm,windcss,windows,wordpress,xd,yarn,yew,zig&perline=20)
 
 
