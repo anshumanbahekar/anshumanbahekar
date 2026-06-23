@@ -1,3 +1,6 @@
+<img src="https://i.pinimg.com/originals/49/cd/d8/49cdd838e8c6d7fe5e2dd55deead5567.gif">
+ 
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anshumanbahekar&theme=dark&hide_border=false)<br/>
