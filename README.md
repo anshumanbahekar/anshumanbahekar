@@ -91,15 +91,11 @@
   <img src="https://img.shields.io/github/stars/anshumanbahekar?affiliations=OWNER&style=for-the-badge&color=f97316" />
 </p>
 
-## ☕ Support My Work
+#### Support My Work
 
-<p align="center">
+<p>
   <a href="https://www.buymeacoffee.com/anshumanbahekar">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" alt="Buy Me A Coffee">
-  </a>
-
-  <a href="https://ko-fi.com/anshumanbahekar">
-    <img height="55" src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" alt="Ko-fi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee">
   </a>
 </p>
 
@@ -109,5 +105,5 @@
 
 <br clear="both"/>
 
-<img width="1199" height="268" alt="image" src="https://i.pinimg.com/1200x/21/c1/b8/21c1b80e57b853c034ac677edd98d0f0.jpg" />
+<img alt="image" src="https://i.pinimg.com/1200x/93/44/fc/9344fcf0497001252954d3a1f5b1a81c.jpg" />
 
