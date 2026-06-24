@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,15 +11,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          plugins_errors_fatal: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_lines: yes
           plugin_habits: yes
-          plugin_achievements: yes
-          plugin_achievements_threshold: "X"
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer,
-            developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements: no
           plugin_sponsors: yes
