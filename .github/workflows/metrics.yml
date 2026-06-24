@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          debug: yes
+          plugins_errors_fatal: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
