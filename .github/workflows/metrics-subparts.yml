@@ -17,7 +17,6 @@ steps:
 
   # ==========================================
   # PROFILE
-  # People + Followup + Gists + Licenses
   # ==========================================
   - uses: lowlighter/metrics@latest
     with:
@@ -39,7 +38,7 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-calendar.svg
 
-      base: ""
+      base: metadata
 
       plugin_calendar: yes
 
@@ -54,7 +53,7 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-repositories.svg
 
-      base: ""
+      base: metadata
 
       plugin_stargazers: yes
       plugin_stargazers_charts: yes
@@ -76,11 +75,11 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-development.svg
 
-      base: ""
+      base: metadata
 
       plugin_languages: yes
       plugin_languages_limit: 8
-      plugin_languages_threshold: 0%
+      plugin_languages_threshold: "0%"
 
       plugin_lines: yes
 
@@ -99,7 +98,7 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-community.svg
 
-      base: ""
+      base: metadata
 
       plugin_discussions: yes
 
@@ -113,7 +112,7 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-learning.svg
 
-      base: ""
+      base: metadata
 
       plugin_leetcode: yes
       plugin_leetcode_user: anshumanbahekar
@@ -129,7 +128,7 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-support.svg
 
-      base: ""
+      base: metadata
 
       plugin_sponsors: yes
       plugin_sponsors_sections: goal, list, about
@@ -144,7 +143,7 @@ steps:
       token: ${{ secrets.METRICS_TOKEN }}
       filename: metrics-growth.svg
 
-      base: ""
+      base: metadata
 
       plugin_traffic: yes
 
