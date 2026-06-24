@@ -99,8 +99,81 @@
 
 ## Analytics
 
+<div align="left">
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanbahekar&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndroidWithRossyn&theme=github_dark&utcOffset=8)
+
+</div>
+
+
+<table>
+  <tr>
+    <th align="center">🧑 Profile & People</th>
+    <th align="center">📓 Repositories & Stars</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics-profile.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="metrics-repositories.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">📅 Calendar & Isocalendar</th>
+    <th align="center">👨‍💻 Development, Languages & WakaTime</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics-calendar.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="metrics-development.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">📈 Growth, Traffic & Posts</th>
+    <th align="center">🎓 Learning — LeetCode & Stack Overflow</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics-growth.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="metrics-learning.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th align="center">💬 Community — Discussions & Reactions</th>
+    <th align="center">💕 Support — Sponsors & Sponsorships</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics-community.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="metrics-support.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">📊 Full Overview</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img alt="" src="metrics.svg">
+      <img alt="">
+    </td>
+  </tr>
+</table>
 
 
 ## Intresting Repositories
