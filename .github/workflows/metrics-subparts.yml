@@ -44,6 +44,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-repositories.svg
           base: metadata
+          plugin_repositories: yes
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stars: yes
