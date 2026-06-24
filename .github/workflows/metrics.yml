@@ -1,6 +1,8 @@
 name: Metrics
 on:
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -11,14 +13,87 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
+
+          # ---- Base content (on by default: header, activity, community, repositories, metadata) ----
+          base: header, activity, community, repositories, metadata
+
+          # ---- Core GitHub plugins (all need only your token, no external accounts) ----
+          plugin_calendar: yes
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
           plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+
           plugin_lines: yes
-          plugin_habits: no
-          plugin_achievements: yes
-          plugin_achievements_threshold: "X"
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer,
-            developer, scripter, packager, explorer, infographile, manager
+
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          plugin_starlists: yes
+
+          plugin_repositories: yes
+
+          plugin_notable: yes
+
+          plugin_contributors: yes
+
+          plugin_people: yes
+
+          plugin_followup: yes
+
+          plugin_discussions: yes
+
+          plugin_reactions: yes
+
+          plugin_gists: yes
+
+          plugin_licenses: yes
+
+          plugin_code: yes
+
+          plugin_projects: yes
+
           plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list, about
+
+          plugin_sponsorships: yes
+
+          # ---- Verified real accounts (confirmed via direct lookup) ----
+          plugin_leetcode: yes
+          plugin_leetcode_user: anshumanbahekar
+
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 16069832
+
+          # ---- Needs the new token's `repo` scope ----
+          plugin_traffic: yes
+
+          # ---- Real account, currently 0 posts \u2014 will populate automatically once you publish ----
+          plugin_posts: yes
+          plugin_posts_source: dev.to
+          plugin_posts_user: anshumanbahekar
+
+          # ---- WakaTime (token stored as repo secret WAKATIME_TOKEN) ----
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: "30"
+          plugin_wakatime_sections: time, projects, languages, editors
+
+          # ---- RSS (your dev.to feed for now \u2014 swap to anshumanbahekar.ai once that domain is live) ----
+          plugin_rss: yes
+          plugin_rss_source: https://dev.to/feed/anshumanbahekar
+          plugin_rss_limit: 5
+
+          # ---- Skipped on purpose ----
+          # plugin_habits        -> confirmed broken upstream (open PR, unreleased fix)
+          # plugin_achievements  -> confirmed broken upstream (open PR, unreleased fix)
+          # plugin_music         -> needs Spotify Premium for Web API access; revisit once active
+          # plugin_anilist / pagespeed / steam / tweets
+          #   -> each needs a separate external account/API token you haven't set up yet;
+          #      would render empty/error, not real data
