@@ -103,18 +103,18 @@ function levelFor(count, max) {
   if (count <= 0) return 0;
   if (max <= 0) return 1;
   const r = count / max;
-  if (r > 0.75) return 4;
-  if (r > 0.5) return 3;
-  if (r > 0.25) return 2;
+  if (r > 0.6) return 4;
+  if (r > 0.35) return 3;
+  if (r > 0.15) return 2;
   return 1;
 }
 
 // ---------- Isometric projection ----------
 // Standard 2:1 isometric: x' = (x - y) * cos(30), y' = (x + y) * sin(30)
-const CELL = 11; // footprint size
-const GAP = 1.4;
+const CELL = 13; // footprint size (chunkier cubes)
+const GAP = 0.6; // tighter gap, denser look
 const STEP = CELL + GAP;
-const MAX_H = 46; // max bar height in px
+const MAX_H = 50; // max bar height in px
 const ISO_ANGLE = Math.PI / 6; // 30deg
 
 function isoProject(col, row, z) {
@@ -125,7 +125,7 @@ function isoProject(col, row, z) {
   return [screenX, screenY];
 }
 
-const COLORS = ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"];
+const COLORS = ["#ebedf0", "#7fdb95", "#3fc463", "#1f9e4a", "#0e6b32"];
 const COLOR_DARK = ["#d8dade", "#7fd190", "#2fa84e", "#218838", "#0f5b27"];
 const COLOR_DARKER = ["#c5c7cb", "#69b97a", "#228a3e", "#176d2c", "#0a481e"];
 
@@ -258,7 +258,7 @@ async function main() {
   cubes.forEach(({ col, row, count }) => {
     if (count <= 0) return; // empty days stay flat (matches reference look)
     const lvl = levelFor(count, stats.max);
-    const h = Math.max(4, Math.round((count / stats.max) * MAX_H));
+    const h = Math.max(MAX_H * 0.18, Math.round((count / stats.max) * MAX_H));
     cubesSvg += drawCube(col, row, h, lvl);
   });
 
