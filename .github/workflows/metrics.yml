@@ -57,7 +57,8 @@ jobs:
 
           plugin_code: yes
 
-          plugin_projects: yes
+          # ---- Disabled: GitHub deprecated classic Projects API, plugin errors regardless of config ----
+          # plugin_projects: yes
 
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
@@ -85,10 +86,10 @@ jobs:
           plugin_wakatime_days: "30"
           plugin_wakatime_sections: time, projects, languages, editors
 
-          # ---- RSS (your dev.to feed for now \u2014 swap to anshumanbahekar.ai once that domain is live) ----
-          plugin_rss: yes
-          plugin_rss_source: https://dev.to/feed/anshumanbahekar
-          plugin_rss_limit: 5
+          # ---- RSS: disabled for now \u2014 feed is genuinely empty (0 dev.to posts), re-enable once you publish ----
+          # plugin_rss: yes
+          # plugin_rss_source: https://dev.to/feed/anshumanbahekar
+          # plugin_rss_limit: 5
 
           # ---- Skipped on purpose ----
           # plugin_habits        -> confirmed broken upstream (open PR, unreleased fix)
