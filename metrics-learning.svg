@@ -45,7 +45,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                             </svg>
-                            7 answers
+                            10 answers
                         </div>
                     </section>
                 </div>
@@ -136,7 +136,7 @@ snippetTitle.attr('contenteditable', 'true');
                                             Resolved
                                         </div>
                                     </div>
-                                    <div class="body markdown">soo you must use ioctl(BLKGETSIZE64) via the libc crate --&gt; it works on mounted and unmounted devices alike. If you want no unsafe, read /sys/block/{dev}/size and multiply by 512 (sysfs always reports 512-byte sectors).</div>
+                                    <div class="body markdown">You must use ioctl(BLKGETSIZE64) via the libc crate - it works on mounted and unmounted devices alike. If you want no unsafe, read /sys/block/{dev}/size and multiply by 512 (sysfs always reports 512-byte sectors).</div>
                                     <div class="infos">
                                         <div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -264,9 +264,9 @@ snippetTitle.attr('contenteditable', 'true');
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.5796627233828341 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">7</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3973</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.6618053809404073 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">8</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3977</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -282,18 +282,18 @@ snippetTitle.attr('contenteditable', 'true');
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.31726133076181295 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">2</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2074</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.47520462205103514 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">3</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2077</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.3881856540084387 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.386722866174921 329"/>
                                     <text x="60" y="50" dominant-baseline="central">4</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/948</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/949</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -303,7 +303,7 @@ snippetTitle.attr('contenteditable', 'true');
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2026, 04:33:54  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2026, 05:00:41  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
