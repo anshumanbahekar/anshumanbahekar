@@ -21,7 +21,7 @@
 - 📒 Building Tools for Students Worldwide
 - 🍋‍🟩 Open Source Contributor
 - 💫 Git commit -m "final_final_v2_REAL_final"
-- 🦗 Building apps instead of touching grass.
+- 🦗 Soon going to touch grass
 
 <br>
 
