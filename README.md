@@ -25,60 +25,111 @@
 
 <br>
 
-## 🪴 Stack
+## 🪴 Stack Used
 
-#### Languages
+<details>
+ 
+<summary>Languages</summary>
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,dart,go,r,ruby,rust,swift,kotlin,scala,haskell,nim,zig,vala\&perline=10)
 
-#### Frontend Development
+</details>
+
+<details>
+ 
+<summary>Frontend Development</summary>
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vue,nuxtjs,angular,svelte,solidjs,jquery,redux,styledcomponents,htmx,threejs,vite,vitest,vuetify\&perline=10)
 
-#### Backend Development
+</details>
+
+<details>
+
+<summary>Backend Development</summary>
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,spring,graphql,prisma,sequelize,electron\&perline=10)
 
-#### Databases
+</details>
+
+<details>
+ 
+<summary>Databases</summary>
 
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase\&perline=10)
 
-#### Cloud & DevOps
+</details>
 
+<details>
+ 
+<summary>Cloud & DevOps</summary>
+ 
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,heroku,netlify,vercel,githubactions,gitlab\&perline=10)
 
-#### AI & Machine Learning
+</details>
+
+<details>
+ 
+<summary>AI & Machine Learning</summary>
 
 ![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv\&perline=10)
 
-#### Mobile Development
+</details>
+
+<details>
+ 
+<summary>Mobile Development</summary>
 
 ![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,dart\&perline=10)
 
-#### Design & Creative
+</details>
+
+<details>
+
+<summary>Design & Creative</summary>
 
 ![Design](https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,xd,svg\&perline=10)
 
-#### Development Tools
+</details>
+
+<details>
+
+<summary>Development Tools</summary>
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,vscodium,webstorm,phpstorm,pycharm,idea,eclipse,rider,replit,npm,yarn,bash,powershell,vim,sublime,gradle\&perline=10)
 
-#### Operating Systems
+</details>
+
+<details>
+
+<summary>Operating Systems</summary>
 
 ![OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,redhat,apple,mint\&perline=10)
 
-#### Game Development
+</details>
+
+<details>
+
+<summary>Game Development</summary>
 
 ![GameDev](https://skillicons.dev/icons?i=unity,unreal,robloxstudio\&perline=10)
 
-#### Hardware & IoT
+</details>
+
+<details>
+
+<summary>Hardware & IoT</summary>
 
 ![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi\&perline=10)
 
-#### Productivity & Collaboration
+</details>
+
+<details>
+
+<summary>Productivity & Collaboration</summary>
 
 ![Productivity](https://skillicons.dev/icons?i=discord,discordjs,gmail,linkedin,obsidian,notion,stackoverflow,webflow,wordpress,ipfs,latex,twitter\&perline=10)
 
+</details>
 
 ## Top Repositories
 
