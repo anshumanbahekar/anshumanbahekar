@@ -26,13 +26,6 @@
 <br>
 <br>
 
-## Analytics
-
-<div align="left">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshumanbahekar&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndroidWithRossyn&theme=github_dark&utcOffset=8)
-
 </div>
 
 
@@ -105,7 +98,7 @@
 </table>
 
 
-### 📍 Intresting Repositories
+### 📌 Intresting Repositories
 
 <div align="center">
   <p align="center">
@@ -137,5 +130,4 @@
 
 <br clear="both"/>
 
-<img alt="image" width="5000" src="./assets/banner_anshuman.jpg" />
 
