@@ -31,8 +31,8 @@
 
 <table>
   <tr>
-    <th align="center">🧑 Profile & People</th>
-    <th align="center">📓 Repositories & Stars</th>
+    <th align="center">Profile & People</th>
+    <th align="center"> Repositories & Stars</th>
   </tr>
   <tr>
     <td align="center">
@@ -45,8 +45,8 @@
     </td>
   </tr>
   <tr>
-    <th align="center">📅 Calendar & Isocalendar</th>
-    <th align="center">👨‍💻 Development, Languages & WakaTime</th>
+    <th align="center">Calendar & Isocalendar</th>
+    <th align="center">Development, Languages & WakaTime</th>
   </tr>
   <tr>
     <td align="center">
@@ -59,8 +59,8 @@
     </td>
   </tr>
   <tr>
-    <th align="center">📈 Growth, Traffic & Posts</th>
-    <th align="center">🎓 Learning — LeetCode & Stack Overflow</th>
+    <th align="center">Growth, Traffic & Posts</th>
+    <th align="center">Learning — LeetCode & Stack Overflow</th>
   </tr>
   <tr>
     <td align="center">
@@ -73,8 +73,8 @@
     </td>
   </tr>
   <tr>
-    <th align="center">💬 Community — Discussions & Reactions</th>
-    <th align="center">💕 Support — Sponsors & Sponsorships</th>
+    <th align="center">Community — Discussions & Reactions</th>
+    <th align="center">Support — Sponsors & Sponsorships</th>
   </tr>
   <tr>
     <td align="center">
