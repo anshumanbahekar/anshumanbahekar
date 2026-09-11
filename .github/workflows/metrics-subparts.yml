@@ -91,7 +91,7 @@ jobs:
           filename: metrics-learning.svg
           base: metadata
           plugin_leetcode: yes
-          plugin_leetcode_user: anshumanbahekar
+          plugin_leetcode_user: iamtonystark
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 16069832
 
