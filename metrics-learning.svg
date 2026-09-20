@@ -271,8 +271,8 @@ snippetTitle.attr('contenteditable', 'true');
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.6510480887792847 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">45</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.218988902589396 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">52</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4055</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -280,8 +280,8 @@ snippetTitle.attr('contenteditable', 'true');
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.750259067357513 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">11</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.4321243523316065 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">13</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/965</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -289,8 +289,8 @@ snippetTitle.attr('contenteditable', 'true');
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.888888888888889 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">25</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.511111111111111 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">29</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2115</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -298,8 +298,8 @@ snippetTitle.attr('contenteditable', 'true');
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.036923076923077 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">9</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.3743589743589744 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">10</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/975</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -310,7 +310,7 @@ snippetTitle.attr('contenteditable', 'true');
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2026, 04:52:07  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2026, 05:08:53  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
