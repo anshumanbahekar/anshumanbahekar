@@ -1,32 +1,9 @@
 ## GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anshumanbahekar&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-<br>
-
-
-## Top Repositories
-
-<img align="left" width="400" src="./assets/programmer_anshuman.gif">
-
-<p align="right">
-  <a href="https://github.com/anshumanbahekar/guardian-ops">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=guardian-ops&theme=dark" /></a>
- <a href="https://github.com/anshumanbahekar/signal-repair">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=signal-repair&theme=dark" /></a>
- <a href="https://github.com/anshumanbahekar/studymind-agent">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshumanbahekar&repo=studymind-agent&theme=dark" /></a>
-</p>
-
-
-<br>
-<br>
-
-</div>
 
 
 <table>
@@ -63,7 +40,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="Buy Me A Coffee">
   </a>
 </p>
-
-
-<br clear="both"/>
 
