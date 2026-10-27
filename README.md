@@ -48,18 +48,28 @@
    
   </tr>
   <tr>
+    <th align="center">Growth, Traffic & Posts</th>
     <th align="center">Learning — LeetCode & Stack Overflow</th>
   </tr>
   <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics-growth.svg">
+      <img width="900" height="1" alt="">
+    </td>
     <td align="center">
       <img alt="" width="400" src="metrics-learning.svg">
       <img width="900" height="1" alt="">
     </td>
   </tr>
   <tr>
+    <th align="center">Community — Discussions & Reactions</th>
     <th align="center">Support — Sponsors & Sponsorships</th>
   </tr>
   <tr>
+    <td align="center">
+      <img alt="" width="400" src="metrics-community.svg">
+      <img width="900" height="1" alt="">
+    </td>
     <td align="center">
       <img alt="" width="400" src="metrics-support.svg">
       <img width="900" height="1" alt="">
@@ -89,5 +99,4 @@
 
 
 <br clear="both"/>
-
 
