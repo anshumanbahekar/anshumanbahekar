@@ -44,19 +44,13 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
-  <tr>
-    <th align="center">Calendar & Isocalendar</th>
-    <th align="center">Development, Languages & WakaTime</th>
-  </tr>
+
   <tr>
     <td align="center">
       <img alt="" width="400" src="metrics-calendar.svg">
       <img width="900" height="1" alt="">
     </td>
-    <td align="center">
-      <img alt="" width="400" src="metrics-development.svg">
-      <img width="900" height="1" alt="">
-    </td>
+   
   </tr>
   <tr>
     <th align="center">Growth, Traffic & Posts</th>
