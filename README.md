@@ -31,14 +31,9 @@
 
 <table>
   <tr>
-    <th align="center">Profile & People</th>
     <th align="center"> Repositories & Stars</th>
   </tr>
   <tr>
-    <td align="center">
-      <img alt="" width="400" src="metrics-profile.svg">
-      <img width="900" height="1" alt="">
-    </td>
     <td align="center">
       <img alt="" width="400" src="metrics-repositories.svg">
       <img width="900" height="1" alt="">
