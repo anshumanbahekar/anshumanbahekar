@@ -17,11 +17,7 @@ jobs:
           # ---- Base content (on by default: header, activity, community, repositories, metadata) ----
           base: header, activity, community, repositories, metadata
 
-          # ---- Core GitHub plugins (all need only your token, no external accounts) ----
-          plugin_calendar: yes
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+    
 
           plugin_lines: yes
 
