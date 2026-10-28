@@ -47,19 +47,11 @@ jobs:
 
           plugin_followup: yes
 
-          plugin_discussions: yes
-
-          plugin_reactions: yes
-
-          plugin_gists: yes
 
           plugin_licenses: yes
 
           plugin_code: yes
 
-
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 16069832
 
           # ---- Needs the new token's `repo` scope ----
           plugin_traffic: yes
