@@ -18,11 +18,6 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
-
-
-  <tr>
-    <th colspan="2" align="center">📊 Full Overview</th>
-  </tr>
   <tr>
     <td colspan="2" align="center">
       <img alt="" src="metrics.svg">
