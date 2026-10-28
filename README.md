@@ -18,9 +18,6 @@
       <img width="900" height="1" alt="">
     </td>
   </tr>
-  <tr>
-    d
-  </tr>
 
   <br>
   <tr>
