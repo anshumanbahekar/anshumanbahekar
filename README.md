@@ -1,9 +1,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 <br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshumanbahekar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
 <table>
   <tr>
     <td align="center">
@@ -26,15 +23,3 @@
     </td>
   </tr>
 </table>
-
-
-
-
-#### Support My Work
-
-<p>
-  <a href="https://www.buymeacoffee.com/anshumanbahekar">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" alt="Buy Me A Coffee">
-  </a>
-</p>
-
