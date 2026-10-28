@@ -23,29 +23,18 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-
           plugin_lines: yes
 
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
 
           plugin_stars: yes
           plugin_stars_limit: 4
 
-          plugin_starlists: yes
 
           plugin_repositories: yes
 
           plugin_notable: yes
 
           plugin_contributors: yes
-
-          plugin_people: yes
-
-          plugin_followup: yes
 
 
           plugin_licenses: yes
